@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Resume Analyzer and Applicant Tracking System",
+  "description": "Analyze smarter. Improve your resume. Discover better career opportunities with AI resume scoring, ATS compatibility checker, and full applicant tracking system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
